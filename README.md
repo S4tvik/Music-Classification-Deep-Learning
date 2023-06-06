@@ -1,2 +1,2 @@
-# CNN_Music_Classification
+# CNN Music Classification
 With Convolution Neural Networks and other architectures we classify the Music Genre using the spectrogram images of the GTZAN Dataset
